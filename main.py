@@ -7,3 +7,5 @@ print("Gehitu aldaketa")
 print("github aldaketa")
 
 print("asier lee esto cabron")
+
+print("hola")
